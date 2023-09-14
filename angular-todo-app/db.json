@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task one",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Task three",
+      "completed": true
+    },
+    {
+      "title": "hi",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "coding",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "coding",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "coding",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "coding",
+      "completed": false,
+      "id": 8
+    }
+  ]
+}
